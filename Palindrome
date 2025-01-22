@@ -1,9 +1,6 @@
-//Abby Jahns 01.14.25
-//Palindrome using recursion
-//extra credit: https://www.jcchouinard.com/install-git/
-    //website useful for first time installers of git, 
-    //I like that it has both mac and windows
-    //with video and step by step description
+//Abby Jahns 
+//01.14.25
+//Test if a word is a palindrome using recursion
 import java.util.Scanner;
 
 public class Palindrome {
